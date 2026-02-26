@@ -1,5 +1,5 @@
 a = 6
-b = 4
+b = 8
 
 def add(x, y):
 	return x + y
